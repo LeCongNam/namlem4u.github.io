@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; My Wordpress &#8212; WordPress</title>
+	<title>Log In &lsaquo; LÊ CÔNG NAM BLOG &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="/">&larr; Go to My Wordpress</a>		</p>
+			<a href="/">&larr; Go to LÊ CÔNG NAM BLOG</a>		</p>
 			</div>
 	<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
