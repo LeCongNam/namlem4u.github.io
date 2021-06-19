@@ -5,15 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Tiện ích &#8211; LÊ CÔNG NAM BLOG</title>
+	<title>Tiện ích &#8211; DIENTHOAIRE</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/tienich/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Sẽ có thiên thần thay anh yêu em</description>
+	<description></description>
 	<lastBuildDate>Wed, 09 Jun 2021 10:22:56 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -30,7 +33,7 @@
 		<category><![CDATA[Tiện ích]]></category>
 		<guid isPermaLink="false">/?p=57</guid>
 
-					<description><![CDATA[6&#160;tiêu&#160;chí&#160;để&#160;bạn&#160;chọn&#160;được &#160;một&#160;chiếc&#160;smartphone&#160;phù&#160;hợp&#160;nhất Hiện có vô số&#160;smartphone&#160;sở hữu những tính năng nổi trội, thiết kế bo góc, cấu hình siêu khủng, nhưng đâu là sản phẩm bạn tâm đắc nhất. Mời tham khảo các tiêu chí sau để có thể chọn mua được chiếc smartphone thích hợp cho riêng bạn. Du&#160;lịch&#160;Đà&#160;Lạt&#160;tháng&#160;nào&#160;đẹp&#160;nhất&#160;trong&#160;năm? Đà Lạt thường được mệnh<span class="dots"> &#8230; </span><span class="link-more"><a href="/dulich/bai-viet-noi-bat/" class="more-link">Read more <span class="screen-reader-text">"BÀI VIẾT NỔI BẬT"</span></a></span>]]></description>
+					<description><![CDATA[6&#160;tiêu&#160;chí&#160;để&#160;bạn&#160;chọn&#160;được &#160;một&#160;chiếc&#160;smartphone&#160;phù&#160;hợp&#160;nhất Hiện có vô số&#160;smartphone&#160;sở hữu những tính năng nổi trội, thiết kế bo góc, cấu hình siêu khủng, nhưng đâu là sản phẩm bạn tâm đắc nhất. Mời tham khảo các tiêu chí sau để có thể chọn mua được chiếc smartphone thích hợp cho riêng bạn. Du&#160;lịch&#160;Đà&#160;Lạt&#160;tháng&#160;nào&#160;đẹp&#160;nhất&#160;trong&#160;năm? Đà Lạt thường được mệnh [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image"><img src="https://namlem4u.github.io/wp-content/uploads/2021/05/Picture1-1.jpg" alt="" class="wp-image-16"/><figcaption>Chọn cho mình 1 smartphone để lưu giữ khoảnh khắc khi đi du lịch</figcaption></figure>
 
@@ -107,7 +110,7 @@
 				<category><![CDATA[Tiện ích]]></category>
 		<guid isPermaLink="false">/?p=23</guid>
 
-					<description><![CDATA[Hiện có vô số&#160;smartphone&#160;sở hữu những tính năng nổi trội, thiết kế bo góc, cấu hình siêu khủng, nhưng đâu là sản phẩm bạn tâm đắc nhất. Mời tham khảo các tiêu chí sau để có thể chọn mua được chiếc smartphone thích hợp cho riêng bạn. 1. Màn hình Smartphone hiện nay thì màn<span class="dots"> &#8230; </span><span class="link-more"><a href="/tienich/6-tieu-chi-de-ban-chon-duoc-mot-chiec-smartphone-phu-hop-nhat/" class="more-link">Read more <span class="screen-reader-text">"6 tiêu chí để bạn chọn được một chiếc smartphone phù hợp nhất"</span></a></span>]]></description>
+					<description><![CDATA[Hiện có vô số&#160;smartphone&#160;sở hữu những tính năng nổi trội, thiết kế bo góc, cấu hình siêu khủng, nhưng đâu là sản phẩm bạn tâm đắc nhất. Mời tham khảo các tiêu chí sau để có thể chọn mua được chiếc smartphone thích hợp cho riêng bạn. 1. Màn hình Smartphone hiện nay thì màn [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Hiện có vô số&nbsp;<a rel="noreferrer noopener" href="https://www.thegioididong.com/dtdd" target="_blank">smartphone</a>&nbsp;sở hữu những tính năng nổi trội, thiết kế bo góc, cấu hình siêu khủng, nhưng đâu là sản phẩm bạn tâm đắc nhất. Mời tham khảo các tiêu chí sau để có thể chọn mua được chiếc smartphone thích hợp cho riêng bạn.</strong></p>
 
