@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>lenam Store</description>
-	<lastBuildDate>Sun, 04 Jul 2021 11:18:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 14:41:08 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Điện thoại thông minh là gì? Đây là thông tin bạn cần biết khi đang tìm hiểu về điện thoại 2021</title>
-		<link>/khong-phan-loai/dien-thoai-thong-minh-tim-hieu-ve-dien-thoai/</link>
-					<comments>/khong-phan-loai/dien-thoai-thong-minh-tim-hieu-ve-dien-thoai/#respond</comments>
+		<link>/tim-hieu-ve-dien-thoai/dien-thoai-thong-minh-tim-hieu-ve-dien-thoai/</link>
+					<comments>/tim-hieu-ve-dien-thoai/dien-thoai-thong-minh-tim-hieu-ve-dien-thoai/#respond</comments>
 		
 		<dc:creator><![CDATA[lecongnam]]></dc:creator>
 		<pubDate>Fri, 02 Jul 2021 23:22:21 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
+				<category><![CDATA[tìm hiểu về điện thoại]]></category>
 		<guid isPermaLink="false">/?p=150</guid>
 
 					<description><![CDATA[Khi tìm hiểu về điện thoại hay Điện thoại thông minh bạn sẽ có lúc bối rối rằng cái tên điện thoại cảm ứng là gì? có ý nghĩa gì? tìm hiểu về tìm hiểu về điện thoại smartphone giúp bạn có cái nhìn toàn cảnh và hiểu hơn về thứ vật dụng được ví [&#8230;]]]></description>
@@ -216,7 +216,7 @@
 <p>Tham khảo:<a href="https://www.thegioididong.com/tin-tuc/day-la-10-tieu-chi-can-thiet-de-giup-ban-chon-duoc-844343" data-type="URL" data-id="https://www.thegioididong.com/tin-tuc/day-la-10-tieu-chi-can-thiet-de-giup-ban-chon-duoc-844343" target="_blank" rel="noopener"> Thế giới di động</a><br></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/khong-phan-loai/dien-thoai-thong-minh-tim-hieu-ve-dien-thoai/feed/</wfw:commentRss>
+					<wfw:commentRss>/tim-hieu-ve-dien-thoai/dien-thoai-thong-minh-tim-hieu-ve-dien-thoai/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

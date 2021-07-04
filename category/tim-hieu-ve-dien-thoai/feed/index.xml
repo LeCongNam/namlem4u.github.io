@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>lecongnam &#8211; Design by Lê Công Nam</title>
-	<atom:link href="http://localhost/myproject/wordpress/author/lecongnam/feed/" rel="self" type="application/rss+xml" />
+	<title>tìm hiểu về điện thoại &#8211; Design by Lê Công Nam</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/tim-hieu-ve-dien-thoai/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>lenam Store</description>
 	<lastBuildDate>Sun, 04 Jul 2021 14:41:08 +0000</lastBuildDate>
@@ -217,26 +217,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/tim-hieu-ve-dien-thoai/dien-thoai-thong-minh-tim-hieu-ve-dien-thoai/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tin tức công nghệ</title>
-		<link>/khong-phan-loai/tin-tuc-cong-nghe/</link>
-					<comments>/khong-phan-loai/tin-tuc-cong-nghe/#respond</comments>
-		
-		<dc:creator><![CDATA[lecongnam]]></dc:creator>
-		<pubDate>Mon, 28 Jun 2021 16:24:00 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=48</guid>
-
-					<description><![CDATA[đây là trang tin tức công nghệ nóng hổi tuần qua]]></description>
-										<content:encoded><![CDATA[
-<p>đây là trang tin tức công nghệ nóng hổi tuần qua</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/khong-phan-loai/tin-tuc-cong-nghe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
