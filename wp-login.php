@@ -2,17 +2,14 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; DIENTHOAIRE &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; Design by Lê Công Nam &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="dns-prefetch" href="//c0.wp.com">
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-<link rel="stylesheet" id="dashicons-css" href="https://c0.wp.com/c/5.7.2/wp-includes/css/dashicons.min.css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://c0.wp.com/c/5.7.2/wp-includes/css/buttons.min.css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://c0.wp.com/c/5.7.2/wp-admin/css/forms.min.css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://c0.wp.com/c/5.7.2/wp-admin/css/l10n.min.css" media="all">
-<link rel="stylesheet" id="login-css" href="https://c0.wp.com/c/5.7.2/wp-admin/css/login.min.css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="buttons-css" href="/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="forms-css" href="/wp-admin/css/forms.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="l10n-css" href="/wp-admin/css/l10n.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="login-css" href="/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -54,22 +51,20 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="/">&larr; Quay lại DIENTHOAIRE</a>		</p>
+			<a href="/">&larr; Quay lại Design by Lê Công Nam</a>		</p>
 			</div>
-	<script id="ce4wp_form_submit-js-extra">
-var ce4wp_form_submit_data = {"siteUrl":"","url":"\/wp-admin\/admin-ajax.php","nonce":"ef31833421","listNonce":"9f161901de"};
-</script>
-<script src="/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1624061574" id="ce4wp_form_submit-js"></script>
+	<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">
 var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
 </script>
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/zxcvbn-async.min.js" id="zxcvbn-async-js"></script>
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script src="/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script src="/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
 <script id="wp-polyfill-js-after">
 ( 'fetch' in window ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
 </script>
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script src="/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
+<script src="/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
@@ -81,25 +76,25 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", { "locale_data": { "messages": { "": {} } } } );
+} )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script src="https://c0.wp.com/c/5.7.2/wp-admin/js/password-strength-meter.min.js" id="password-strength-meter-js"></script>
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/underscore.min.js" id="underscore-js"></script>
+<script src="/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
+<script src="/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://c0.wp.com/c/5.7.2/wp-includes/js/wp-util.min.js" id="wp-util-js"></script>
+<script src="/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"621ddcafb5"};
+var userProfileL10n = {"user_id":"0","nonce":"99da4c765b"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", { "locale_data": { "messages": { "": {} } } } );
+} )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Show":["Hiển thị"],"Hide":["Ẩn đi"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script src="https://c0.wp.com/c/5.7.2/wp-admin/js/user-profile.min.js" id="user-profile-js"></script>
+<script src="/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
