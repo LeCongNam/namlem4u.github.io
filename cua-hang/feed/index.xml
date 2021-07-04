@@ -5,17 +5,14 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; DIENTHOAIRE</title>
+	<title>Sản phẩm &#8211; Design by Lê Công Nam</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description></description>
-	<lastBuildDate>Sat, 19 Jun 2021 08:58:55 +0000</lastBuildDate>
+	<description>lenam Store</description>
+	<lastBuildDate>Fri, 02 Jul 2021 02:50:02 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,215 +20,289 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Laptop Dell Inspiron 7306</title>
-		<link>/sản%20phẩm/laptop-dell-inspiron-7306/</link>
-					<comments>/sản%20phẩm/laptop-dell-inspiron-7306/#respond</comments>
+		<title>Samsung tab S6</title>
+		<link>/sản%20phẩm/samsung-tab-s6/</link>
+					<comments>/sản%20phẩm/samsung-tab-s6/#respond</comments>
 		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 08:58:55 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=158</guid>
-
-					<description><![CDATA[<h5>Laptop Dell Inspiron 7306 i5 (N3I5202W) là mẫu laptop 2 trong 1 thuộc phân khúc cao cấp của nhà Dell. Với thiết kế mỏng nhẹ, khả năng gập xoay linh hoạt và cấu hình mạnh mẽ, đây quả là bạn đồng hành đáng tin cậy đối với dân văn phòng hoặc doanh nhân.</h5>]]></description>
-										<content:encoded><![CDATA[<h4>Laptop Dell Inspiron 7306 i5 (N3I5202W) là mẫu laptop 2 trong 1 thuộc phân khúc cao cấp của nhà Dell. Với thiết kế mỏng nhẹ, khả năng gập xoay linh hoạt và cấu hình mạnh mẽ, đây quả là bạn đồng hành đáng tin cậy đối với dân văn phòng hoặc doanh nhân.</h4>
-<h4>Thiết kế 2 trong 1 tiện lợi, sang trọng</h4>
-<h4><a title="Xem thêm các mẫu laptop đang kinh doanh tại thegioididong.com" href="https://www.thegioididong.com/laptop" target="_blank" rel="noopener">Laptop</a> được hoàn thiện từ kim loại nguyên khối tạo sự liền mạch, kiểu dáng thanh thoát, sang trọng. Chiếc máy này mỏng <strong>16.74 mm</strong> và trọng lượng chỉ <strong>1.37 kg</strong>, gọn nhẹ như một quyển sách, dễ dàng để bạn cho vào túi xách và mang theo bên mình mỗi ngày.</h4>
-<p><img loading="lazy" class="alignnone size-full wp-image-160" src="/wp-content/uploads/2021/06/thietke-800x444-1.jpg" alt="" width="800" height="444" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sản%20phẩm/laptop-dell-inspiron-7306/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Laptop Dell Inspiron 7501</title>
-		<link>/sản%20phẩm/laptop-dell-inspiron-7501/</link>
-					<comments>/sản%20phẩm/laptop-dell-inspiron-7501/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 08:53:02 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=155</guid>
-
-					<description><![CDATA[<h3>Dell Inspiron 7501 i5 (N5I5012W) sở hữu thiết kế trẻ trung, hiện đại cùng hiệu năng mạnh mẽ, đáp ứng mượt mà các tác vụ văn phòng đến đồ họa chuyên nghiệp là sản phẩm tuyệt vời dành cho bạn.</h3>]]></description>
-										<content:encoded><![CDATA[<h3>Dell Inspiron 7501 sở hữu thiết kế trẻ trung, hiện đại cùng hiệu năng mạnh mẽ, đáp ứng mượt mà các tác vụ văn phòng đến đồ họa chuyên nghiệp là sản phẩm tuyệt vời dành cho bạn.</h3>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sản%20phẩm/laptop-dell-inspiron-7501/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Laptop Dell XPS 13 9310</title>
-		<link>/sản%20phẩm/laptop-dell-xps-13-9310/</link>
-					<comments>/sản%20phẩm/laptop-dell-xps-13-9310/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 08:49:02 +0000</pubDate>
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 02:45:27 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=product&#038;p=145</guid>
 
-					<description><![CDATA[Bài viết đánh giá Laptop Dell XPS 13 9310 i5 (70234076) được trang bị bộ vi xử lí thế hệ thứ 11 mới đến từ Intel cùng với thiết kế mỏng nhẹ nhưng nó vẫn mang đến trải nghiệm chơi game tuyệt vời cho giới trẻ. Hiệu năng mạnh mẽ tuyệt vời Dell XPS 13 9310 sở [&#8230;]]]></description>
-										<content:encoded><![CDATA[<h4 class="article__content__title">Bài viết đánh giá</h4>
-<h4>Laptop Dell XPS 13 9310 i5 (70234076) được trang bị bộ vi xử lí thế hệ thứ 11 mới đến từ Intel cùng với thiết kế mỏng nhẹ nhưng nó vẫn mang đến trải nghiệm chơi game tuyệt vời cho giới trẻ.</h4>
-<h4><strong>Hiệu năng mạnh mẽ tuyệt vời</strong></h4>
-<h4>Dell XPS 13 9310 sở hữu bộ vi xử lý mới đến từ Intel, con chip thế hệ thứ 11 <strong>Tiger Lake </strong>sản xuất trên tiến trình <strong>10 nm</strong> tiên tiến, mang đến hiệu năng vượt trội so với các thế hệ trước. <strong>Intel Core i5 1135G7</strong> với <strong>4 nhân 8 luồng </strong>cho xung nhịp cơ sở là<strong> 2.4 GHz</strong> và được ép<strong> </strong>tối đa tới <strong>4.2 GHz</strong>, con chip sẽ giúp bạn chạy mượt mọi tác vụ văn phòng và cả những tác vụ nặng hơn như chỉnh sửa ảnh, biên tập video. Đồng thời nó còn giúp bạn tiết kiệm được năng lượng, kéo dài tuổi thọ pin cho phép bạn làm được nhiều việc ở hiệu suất cao hơn.</h4>
-<p><img loading="lazy" class="alignnone size-full wp-image-146" src="/wp-content/uploads/2021/06/vi-vn-dell-xps-13-9310-i5-70234076-6-màn-hình.jpg" alt="" width="800" height="444" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sản%20phẩm/laptop-dell-xps-13-9310/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tai nghe Bluetooth True Wireless Galaxy Buds Pro Bạc</title>
-		<link>/sản%20phẩm/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac/</link>
-					<comments>/sản%20phẩm/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 08:34:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=142</guid>
+					<description><![CDATA[<h5>Galaxy Tab S6 Lite là phiên bản rút gọn của dòng máy tính bảng "ăn khách" Galaxy Tab S6 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h5>]]></description>
+										<content:encoded><![CDATA[<h3>Galaxy Tab S6 Lite là phiên bản rút gọn của dòng máy tính bảng &#8220;ăn khách&#8221; Galaxy Tab S6 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h3>
+<h3>Thiết kế siêu mỏng nhẹ</h3>
+<p>Galaxy Tab S6 Lite sở hữu kiểu thiết kế đặc trưng của dòng Galaxy Tab S6. Thiết bị sử dụng chất liệu nhôm với thiết kế nguyên khối giúp cho máy trở nên cao cấp hơn dù chỉ thuộc phân khúc tầm trung giá rẻ.</p>
 
-					<description><![CDATA[Tận hưởng <strong>âm thanh vòm</strong> lôi cuốn, chuẩn điện ảnh từ <strong>360 Audio </strong>đến từ nhà<strong> SAMSUNG</strong>]]></description>
-										<content:encoded><![CDATA[<h3>Thiết kế sang trọng, thời thượng cùng hộp sạc đồng nhất màu sắc đi kèm</h3>
-<p>Tai nghe Bluetooth True Wireless Samsung Buds Pro sở hữu vẻ ngoài đẹp mắt thời thượng với hai màu đen và trắng. Thiết kế mới trên hình dạng tai nghe cổ điển, có khả năng làm giảm bớt sự khó chịu khi sử dụng tai nghe trong nhiều giờ và tai nghe cũng nằm chắc chắn phía trong tai khi bạn tập luyện hay vận động. Đồng thời, các lỗ thoát khí giúp cân bằng áp suất trong tai và tăng lưu lượng không khí, tạo cảm giác mềm mại dễ chịu khi sử dụng.</p>
-<p>Tai nghe có thiết kế nhỏ gọn nên bạn dễ dàng bỏ vào túi xách, balo và mang theo bên mình di chuyển mọi nơi. Ngoài ra, có kèm theo núm tai nghe với ba kích thước cho người dùng dễ thay đổi sao cho phù hợp.</p>
+<a href='/?attachment_id=30'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Tab1" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/?attachment_id=31'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
 <p>&nbsp;</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-143" src="/wp-content/uploads/2021/06/bluetooth-true-wireless-galaxy-buds-pro-bac-1.jpg" alt="" width="800" height="500" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sản%20phẩm/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Máy tính bảng Samsung Galaxy Tab A7 Lite</title>
-		<link>/sản%20phẩm/may-tinh-bang-samsung-galaxy-tab-a7-lite/</link>
-					<comments>/sản%20phẩm/may-tinh-bang-samsung-galaxy-tab-a7-lite/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 08:28:58 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=139</guid>
-
-					<description><![CDATA[Là sản phẩm hot Tablet nhà samsung]]></description>
-										<content:encoded><![CDATA[<h4>Galaxy Tab A7 Lite là phiên bản rút gọn của dòng máy tính bảng &#8220;ăn khách&#8221; Galaxy Tab A7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h4>
-<h4>Thiết kế siêu mỏng nhẹ</h4>
-<p><img loading="lazy" class="alignnone size-full wp-image-140" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1.jpg" alt="" width="800" height="533" /></p>
 <p>&nbsp;</p>
-<p>Galaxy Tab A7 Lite sở hữu kiểu thiết kế đặc trưng của dòng Galaxy Tab A7. Thiết bị sử dụng chất liệu nhôm với thiết kế nguyên khối giúp cho thiết bị trở nên cao cấp hơn dù chỉ thuộc phân khúc tầm trung giá rẻ.</p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sản%20phẩm/may-tinh-bang-samsung-galaxy-tab-a7-lite/feed/</wfw:commentRss>
+					<wfw:commentRss>/sản%20phẩm/samsung-tab-s6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Điện thoại Samsung Galaxy Z Fold2 5G Đặc Biệt &#8211; SS-FOLDULT</title>
-		<link>/sản%20phẩm/dien-thoai-samsung-galaxy-z-fold2-5g-dac-biet-ss-foldult/</link>
-					<comments>/sản%20phẩm/dien-thoai-samsung-galaxy-z-fold2-5g-dac-biet-ss-foldult/#respond</comments>
+		<title>S-pen SamSung Tab S7</title>
+		<link>/sản%20phẩm/s-pen-samsung-tab-s7/</link>
+					<comments>/sản%20phẩm/s-pen-samsung-tab-s7/#respond</comments>
 		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 07:22:35 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=127</guid>
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 02:38:50 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=138</guid>
 
-					<description><![CDATA[<h5>Thuộc dòng smartphone cao cấp, Samsung Galaxy Z Fold2 5G được Samsung trau chuốt không chỉ vẻ ngoài sang trọng, tinh tế mà lẫn cả “nội thất” bên trong đầy mạnh mẽ khiến chiếc smartphone này hoàn toàn xứng đáng để được sở hữu.</h5>]]></description>
-										<content:encoded><![CDATA[<h5>Thuộc dòng smartphone cao cấp, Samsung Galaxy Z Fold2 5G được Samsung trau chuốt không chỉ vẻ ngoài sang trọng, tinh tế mà lẫn cả “nội thất” bên trong đầy mạnh mẽ khiến chiếc smartphone này hoàn toàn xứng đáng để được sở hữu.</h5>
+					<description><![CDATA[SPEN  kèm theo Samsung Tab S7]]></description>
+										<content:encoded><![CDATA[<h3>Galaxy Tab s7 Lite là phiên bản rút gọn của dòng máy tính bảng &#8220;ăn khách&#8221; Galaxy Tab s7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h3>
+<h3>Thiết kế siêu mỏng nhẹ</h3>
+<p>Galaxy Tab S7 Lite sở hữu kiểu thiết kế đặc trưng của dòng Galaxy Tab s7. Thiết bị sử dụng chất liệu nhôm với thiết kế nguyên khối giúp cho máy trở nên cao cấp hơn dù chỉ thuộc phân khúc tầm trung giá rẻ.</p>
+
+<a href='/?attachment_id=30'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Tab1" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/?attachment_id=31'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
+<p>&nbsp;</p>
+<p>Tuy được hoàn thiện từ nhôm nguyên khối, nhưng Galaxy Tab S7 Lite vẫn có độ mỏng nhẹ ấn tượng khi chỉ nặng 371 g và dày chỉ 8 mm, mang đến sự thoải mái khi cầm sử dụng trong thời gian dài.</p>
+<p>&nbsp;</p>
+<p>Với kích thước chỉ tương đương với một quyển sổ nên Galaxy Tab S7 Lite sẽ vô cùng gọn gàng để bạn có thể mang theo khi cần thiết.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/s-pen-samsung-tab-s7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dock SamSung Tab S7</title>
+		<link>/sản%20phẩm/dock-samsung-tab-s7/</link>
+					<comments>/sản%20phẩm/dock-samsung-tab-s7/#respond</comments>
+		
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 02:28:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=128</guid>
+
+					<description><![CDATA[Dock kèm theo Samsung Tab S7]]></description>
+										<content:encoded><![CDATA[<h3>Galaxy Tab s7 Lite là phiên bản rút gọn của dòng máy tính bảng &#8220;ăn khách&#8221; Galaxy Tab s7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h3>
+<h3>Thiết kế siêu mỏng nhẹ</h3>
+<p>Galaxy Tab S7 Lite sở hữu kiểu thiết kế đặc trưng của dòng Galaxy Tab s7. Thiết bị sử dụng chất liệu nhôm với thiết kế nguyên khối giúp cho máy trở nên cao cấp hơn dù chỉ thuộc phân khúc tầm trung giá rẻ.</p>
+
+<a href='/?attachment_id=30'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Tab1" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/?attachment_id=31'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
+<p>&nbsp;</p>
+<p>Tuy được hoàn thiện từ nhôm nguyên khối, nhưng Galaxy Tab S7 Lite vẫn có độ mỏng nhẹ ấn tượng khi chỉ nặng 371 g và dày chỉ 8 mm, mang đến sự thoải mái khi cầm sử dụng trong thời gian dài.</p>
+<p>&nbsp;</p>
+<p>Với kích thước chỉ tương đương với một quyển sổ nên Galaxy Tab S7 Lite sẽ vô cùng gọn gàng để bạn có thể mang theo khi cần thiết.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/dock-samsung-tab-s7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung A22</title>
+		<link>/sản%20phẩm/samsung-a22/</link>
+					<comments>/sản%20phẩm/samsung-a22/#respond</comments>
+		
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 01:47:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=107</guid>
+
+					<description><![CDATA[<h5>Sự đẳng cấp được Samsung gửi gắm thông qua chiếc smartphone Galaxy A22 Ultra 5G với hàng loạt sự nâng cấp và cải tiến không chỉ ngoại hình bên ngoài mà còn sức mạnh bên trong, hứa hẹn đáp ứng trọn vẹn nhu cầu ngày càng cao của người dùng.</h5>]]></description>
+										<content:encoded><![CDATA[<h4>Sự đẳng cấp được Samsung gửi gắm thông qua chiếc smartphone Galaxy S21 Ultra 5G với hàng loạt sự nâng cấp và cải tiến không chỉ ngoại hình bên ngoài mà còn sức mạnh bên trong, hứa hẹn đáp ứng trọn vẹn nhu cầu ngày càng cao của người dùng.</h4>
+<h4>Đột phá trong thiết kế thời thượng</h4>
+<p>Không chỉ đơn thuần phục vụ giao tiếp và giải trí, Samsung Galaxy S21 Ultra 5G còn chính là món phụ kiện thời trang khẳng định vị thế của người sở hữu. Vẻ ngoài mảnh mai và thon gọn đến bất ngờ chỉ 165.1 x 75.6 x 8.9 mm và trọng lượng 228 g dù phải “vác” một viên pin lớn.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="size-full wp-image-15 aligncenter" src="/wp-content/uploads/2021/06/samsung-galaxy-s21-tim-200x200-1.jpg" alt="" width="200" height="200" srcset="/wp-content/uploads/2021/06/samsung-galaxy-s21-tim-200x200-1.jpg 200w, /wp-content/uploads/2021/06/samsung-galaxy-s21-tim-200x200-1-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-s21-tim-200x200-1-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" /></p>
+<p>Mặt lưng của thiết bị được phủ bởi một lớp nhám mờ, sang trọng bền bỉ vừa hạn chế bám dấu vân tay tối đa vừa tạo nên vẻ ngoài tinh xảo và cuốn hút đến bất ngờ.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-14 aligncenter" src="/wp-content/uploads/2021/06/samsung-galaxy-s21-plus-den-600x600-600x600-1-300x300.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2021/06/samsung-galaxy-s21-plus-den-600x600-600x600-1-300x300.jpg 300w, /wp-content/uploads/2021/06/samsung-galaxy-s21-plus-den-600x600-600x600-1-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-s21-plus-den-600x600-600x600-1-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-s21-plus-den-600x600-600x600-1-416x416.jpg 416w, /wp-content/uploads/2021/06/samsung-galaxy-s21-plus-den-600x600-600x600-1-100x100.jpg 100w, /wp-content/uploads/2021/06/samsung-galaxy-s21-plus-den-600x600-600x600-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Ngoài ra, Galaxy S21 Ultra 5G là mẫu flagship S đầu tiên của Samsung hỗ trợ chiếc bút S Pen, một công cụ vốn đã quen thuộc với nhiều người dùng Galaxy Note. Bằng việc sử dụng công nghệ Wacom, chiếc bút mang đến cảm giác cầm thoải mái hơn và thật hơn.</p>
+<p>&nbsp;</p>
+<p>Máy có hỗ trợ khả năng kháng nước, kháng bụi theo tiêu chuẩn IP68. Nhờ đó, nó có thể ngâm nước ở độ sâu 1.5 m trong 30 phút.</p>
+<h3>Thỏa mãn thị giác hơn bao giờ hết</h3>
+<p>Samsung Galaxy S21 Ultra 5G sở hữu màn hình kích thước lớn lên đến 6.8 inch. Màn hình vô cực “ít cong” hơn và viền bezel mỏng xung quanh, cùng camera selfie đục lỗ Infinity-O khá nhỏ giúp máy đạt tỉ lệ màn hình tới 20:9 đáng mơ ước.</p>
+<p>&nbsp;</p>
+<p>Tấm nền Dynamic AMOLED 2X với công nghệ hiển thị màu sắc rực rỡ, độ sáng tối đa lên tới 1500 nits mang đến trải nghiệm giải trí sống động đầy cảm xúc với dung lượng màu 100% cho màu sắc chính xác và chân thật, ngay cả khi sử dụng dưới điều kiện ngoài trời.</p>
+<p>&nbsp;</p>
+<p>Đặc biệt, máy hỗ trợ công nghệ HDR10+ và tần số quét 120 Hz giúp thao tác, cuộn mượt mà cùng khả năng tự điều chỉnh tần số để tiết kiệm pin.</p>
+<p>&nbsp;</p>
+<p>Không chỉ được bảo vệ bởi kính cường lực Gorilla Glass Victus, màn hình của Samsung Galaxy S21 Ultra 5G cũng đạt chứng nhận bảo vệ mắt (Eye care) từ SGS nhằm ngăn chặn đáng kể tác hại của ánh sáng xanh, nổi bật với tính năng Eye Comfort Shield.</p>
+<p>&nbsp;</p>
+<p>Galaxy S21 Ultra 5G trang bị cảm biến vân tay ẩn dưới màn hình cho tốc độ mở khóa nhanh chóng và chính xác ở độ bảo mật cao.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/samsung-a22/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Power Anker 20k</title>
+		<link>/sản%20phẩm/power-anker-20k/</link>
+					<comments>/sản%20phẩm/power-anker-20k/#comments</comments>
+		
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 01:34:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=101</guid>
+
+					<description><![CDATA[Pin sạc dự phòng Polymer 10.000mAh Type C PowerCore Slim PD Anker A1231 có thiết kế gọn gàng trọng lượng chỉ 212 g, bạn có thể dễ dàng để vào balo hay túi xách mang theo bên mình để sạc các thiết bị điện tử khi cần.<img class="alignnone size-medium wp-image-102" src="/wp-content/uploads/2021/07/sac-du-phong-20000mah-powercore-essential-anker-2-org-300x200.jpg" alt="" width="300" height="200" />]]></description>
+										<content:encoded><![CDATA[<h3>Thiết kế tối giản, gọn gàng dễ mang theo</h3>
+<p>Pin sạc dự phòng Polymer 20.000mAh Type C PowerCore Slim PD Anker A1231 có thiết kế gọn gàng trọng lượng chỉ 212 g, bạn có thể dễ dàng để vào balo hay túi xách mang theo bên mình để sạc các thiết bị điện tử khi cần.</p>
+<p>Pin dự phòng được thiết kế vừa tay, khi cầm tạo cảm giác chắc chắn, vỏ của pin được phủ một lớp vải Fabric bền bỉ vừa nâng cao vẻ đẹp bên ngoài vừa bảo vệ tốt các linh kiện bên trong.</p>
+<p><img loading="lazy" class=" wp-image-102 aligncenter" src="/wp-content/uploads/2021/07/sac-du-phong-20000mah-powercore-essential-anker-2-org-300x200.jpg" alt="" width="332" height="221" srcset="/wp-content/uploads/2021/07/sac-du-phong-20000mah-powercore-essential-anker-2-org-300x200.jpg 300w, /wp-content/uploads/2021/07/sac-du-phong-20000mah-powercore-essential-anker-2-org-768x512.jpg 768w, /wp-content/uploads/2021/07/sac-du-phong-20000mah-powercore-essential-anker-2-org-416x277.jpg 416w, /wp-content/uploads/2021/07/sac-du-phong-20000mah-powercore-essential-anker-2-org.jpg 1020w" sizes="(max-width: 332px) 100vw, 332px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/power-anker-20k/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Power Anker</title>
+		<link>/sản%20phẩm/power-anker/</link>
+					<comments>/sản%20phẩm/power-anker/#comments</comments>
+		
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 01:32:27 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=97</guid>
+
+					<description><![CDATA[Pin sạc dự phòng Polymer 10.000mAh Type C PowerCore Slim PD Anker A1231 có thiết kế gọn gàng trọng lượng chỉ 212 g, bạn có thể dễ dàng để vào balo hay túi xách mang theo bên mình để sạc các thiết bị điện tử khi cần.]]></description>
+										<content:encoded><![CDATA[<h3>Thiết kế tối giản, gọn gàng dễ mang theo</h3>
+<p>Pin sạc dự phòng Polymer 10.000mAh Type C PowerCore Slim PD Anker A1231 có thiết kế gọn gàng trọng lượng chỉ 212 g, bạn có thể dễ dàng để vào balo hay túi xách mang theo bên mình để sạc các thiết bị điện tử khi cần.</p>
+<p>Pin dự phòng được thiết kế vừa tay, khi cầm tạo cảm giác chắc chắn, vỏ của pin được phủ một lớp vải Fabric bền bỉ vừa nâng cao vẻ đẹp bên ngoài vừa bảo vệ tốt các linh kiện bên trong.</p>
+<p><img loading="lazy" class="alignnone" src="https://lh3.googleusercontent.com/9pDmS4K7M43GA11d6YGBww3h3APoGfDjxN1HXOPUs6JXWtz8wDmKANgIy5qaFuhaTKHaDw_6UdPPjRlTIPcjcZPMMJVA0xLOHp36rehCK1iHOfV5sGMYL839zlFwmOKaHZIxby_efpeS-UOTVcCfKtBpV4IlgUUzEVc7KOE3N8AYTZzADv4B83Uh8P1tBun-oJfbDPYz08vhKVEuaZwG3myk5lMLkK2r8Gb0nj2YhHrNd8uey8hNm2hwR59wbPogG19C34H3OszgwQa184e1dzAu8O35H2e333ptgV4T2UQIrDr0RPzjavIhjl1IA2-huWdaZSQsEiOJVFfdQ2AhnB6n8kv9VJEB-0L5jKYu5Llzx-Ehv5zCBMLvBecFu1WFtp6snBYM_LtSVEiEssql8lYlYUgbcax1tNCQqPd2hjxCq-n3OLKvcS2QsZiugJ4MpfMSju7ZAzuItpuEYmR1XgGwjes_sMxbcfFi6CGo5oBzLBIaLeWUV9C_VNmExNoDHbcqX7hzcxW5BtjCe7T9DpRwoplFp4nvyaQ4wTliOiDSkh8-lwT4xF3gYPiYkDt71nVUnwqC_Ysfy71BLjYL7ANZhzm6gylnXwR-vY9bL9ZBGNnTXNrT2mc35bumgFrkv4f5YO6ye6xc4QtwDh8rBYerPuAYsh_lZARj9sQ38Ss0nUa6lbgql7DDdczcEgSXhuGt63sZXcQMlsWhMYGP2luE=w800-h500-no?authuser=0" alt="" width="800" height="500" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/power-anker/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HeadPhone Samsung Gray</title>
+		<link>/sản%20phẩm/headphone-samsung-gray/</link>
+					<comments>/sản%20phẩm/headphone-samsung-gray/#respond</comments>
+		
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 16:14:17 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=40</guid>
+
+					<description><![CDATA[Đặc điểm nổi bật Nâng tầm trải nghiệm âm và chất lượng cuộc gọi với chống ồn chủ động (ANC). Kết nối không dây Bluetooth 5.0 dễ dàng với các thiết bị ngoài, đường truyền ổn định. Chuẩn âm thanh studio với loa 2 chiều AKG mạnh mẽ. Tận hưởng âm thanh vòm lôi cuốn, chuẩn điện ảnh từ 360 Audio. Đàm thoại [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="short-article__title">Đặc điểm nổi bật</p>
+<ul>
+<li>Nâng tầm trải nghiệm âm và chất lượng cuộc gọi với <strong>chống ồn chủ động (ANC)</strong>.</li>
+<li>Kết nối không dây <strong>Bluetooth 5.0 </strong>dễ dàng với các thiết bị ngoài, đường truyền ổn định.</li>
+<li>Chuẩn âm thanh studio với <strong>loa 2 chiều AKG</strong> mạnh mẽ.</li>
+<li>Tận hưởng <strong>âm thanh vòm</strong> lôi cuốn, chuẩn điện ảnh từ <strong>360 Audio</strong>.</li>
+<li>Đàm thoại rõ ràng với hệ thống <strong>3 mic</strong> và bộ phận thu nhận giọng nói (Voice Pickup Unit).</li>
+<li>Loa <strong>2 chiều</strong> (loa trầm 11mm, loa bổng 6.5mm).</li>
+<li>Khả năng kháng nước hiệu quả cùng xếp hạng kháng nước <strong>IPX7</strong>.</li>
+<li>Thời gian sử dụng <strong>5 giờ</strong> và <strong>13 giờ</strong> cùng hộp sạc (bật chống ồn), sử dụng <strong>8 giờ</strong> và <strong>20 giờ</strong> cùng hộp sạc (tắt chống ồn).<img loading="lazy" class="alignnone size-medium wp-image-41" src="/wp-content/uploads/2021/06/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac-1-org-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2021/06/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac-1-org-300x200.jpg 300w, /wp-content/uploads/2021/06/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac-1-org-768x512.jpg 768w, /wp-content/uploads/2021/06/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac-1-org-416x277.jpg 416w, /wp-content/uploads/2021/06/tai-nghe-bluetooth-true-wireless-galaxy-buds-pro-bac-1-org.jpg 1020w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/headphone-samsung-gray/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung Z FOLD</title>
+		<link>/sản%20phẩm/samsung-z-fold/</link>
+					<comments>/sản%20phẩm/samsung-z-fold/#respond</comments>
+		
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 15:53:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=34</guid>
+
+					<description><![CDATA[Thuộc dòng smartphone cao cấp, Samsung Galaxy Z Fold2 5G được Samsung trau chuốt không chỉ vẻ ngoài sang trọng, tinh tế mà lẫn cả “nội thất” bên trong đầy mạnh mẽ khiến chiếc smartphone này hoàn toàn xứng đáng để được sở hữu. Bứt phá ngoạn mục với thiết kế thời thượng Phần “xương sống” của máy cho phép bạn [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3>Thuộc dòng smartphone cao cấp, Samsung Galaxy Z Fold2 5G được Samsung trau chuốt không chỉ vẻ ngoài sang trọng, tinh tế mà lẫn cả “nội thất” bên trong đầy mạnh mẽ khiến chiếc smartphone này hoàn toàn xứng đáng để được sở hữu.</h3>
 <h3>Bứt phá ngoạn mục với thiết kế thời thượng</h3>
 <p>Phần “xương sống” của máy cho phép bạn gập mở nhịp nhàng ở nhiều góc độ khác nhau, mang đến cảm giác chắc chắn, mượt mà hơn, không giống như thế hệ Galaxy Fold đầu tiên.</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-128" src="/wp-content/uploads/2021/06/samsung-galaxy-z-fold2-5g-dac-biet-vang-dong-1-org.jpg" alt="" width="1020" height="680" /></p>
+<p><img loading="lazy" class=" wp-image-36 aligncenter" src="/wp-content/uploads/2021/06/samsung-galaxy-z-fold2-5g-dac-biet-vang-dong-1-org-300x200.jpg" alt="" width="363" height="242" srcset="/wp-content/uploads/2021/06/samsung-galaxy-z-fold2-5g-dac-biet-vang-dong-1-org-300x200.jpg 300w, /wp-content/uploads/2021/06/samsung-galaxy-z-fold2-5g-dac-biet-vang-dong-1-org-768x512.jpg 768w, /wp-content/uploads/2021/06/samsung-galaxy-z-fold2-5g-dac-biet-vang-dong-1-org-416x277.jpg 416w, /wp-content/uploads/2021/06/samsung-galaxy-z-fold2-5g-dac-biet-vang-dong-1-org.jpg 1020w" sizes="(max-width: 363px) 100vw, 363px" /></p>
+<p>&nbsp;</p>
+<p>Khi gập lại, máy cho độ dày 16.8 mm được thu hẹp đáng kể hơn trước, trong khi mở ra hoàn toàn thì mỏng 6.9 mm.</p>
+<p>Tính năng bảo mật vân tay của Samsung Galaxy Z Fold2 5G được tích hợp vào nút nguồn, đặt bên cạnh phải của máy, chỉ cần một lần chạm là có thể mở khóa máy nhanh chóng.</p>
+<p>&nbsp;</p>
+<p>Ngoài ra, mặt sau của máy được làm bằng kính cường lực Gorilla Glass 6, bảo vệ thiết bị khỏi va đập trong cuộc sống hàng ngày tốt hơn.</p>
+<h3>Trải nghiệm màn hình đỉnh cao</h3>
+<p>Samsung Galaxy Z Fold2 5G với màn hình ngoài sử dụng tấm nền Super AMOLED 6.23 inch được bảo vệ bằng kính cường lực Gorilla Glass Victus, được cho là bền bỉ và chống xước vượt trội hơn Gorilla Glass 6.</p>
+<p>&nbsp;</p>
+<p>Màn hình bên trong chắc chắn sẽ thu hút nhiều sự chú ý hơn khi Samsung sử dụng một loại kính siêu mỏng không chỉ có khả năng chịu lực tuyệt vời mà còn giảm thiểu tối đa ánh sáng xanh, cho phép bạn trải nghiệm nhiều giờ liền mà không gặp phải tình trạng nhức mỏi mắt.</p>
+<p>&nbsp;</p>
+<p>Màn hình bên trong của Samsung Galaxy Z Fold2 5G được trang bị tấm nền Dynamic AMOLED có độ phân giải Full HD+ với kích thước 7.59 inch cho phép bạn trải nghiệm trò chơi, xem phim và các hoạt động giải trí khác với khả năng hiển thị rõ nét cùng các dải màu rực rỡ.</p>
+<p>Đáng chú ý nhất chính là tốc độ làm mới màn hình 120 Hz cho khả năng xử lý mượt mà, liền mạch và tốc độ phản hồi nhanh ấn tượng.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sản%20phẩm/samsung-z-fold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung tab S7</title>
+		<link>/sản%20phẩm/samsung-tab-s7/</link>
+					<comments>/sản%20phẩm/samsung-tab-s7/#respond</comments>
+		
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 15:52:40 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=33</guid>
+
+					<description><![CDATA[<h5>Galaxy Tab S7 Lite là phiên bản rút gọn của dòng máy tính bảng "ăn khách" Galaxy Tab S7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h5>]]></description>
+										<content:encoded><![CDATA[<h3>Galaxy Tab s7 Lite là phiên bản rút gọn của dòng máy tính bảng &#8220;ăn khách&#8221; Galaxy Tab s7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h3>
+<h3>Thiết kế siêu mỏng nhẹ</h3>
+<p>Galaxy Tab S7 Lite sở hữu kiểu thiết kế đặc trưng của dòng Galaxy Tab s7. Thiết bị sử dụng chất liệu nhôm với thiết kế nguyên khối giúp cho máy trở nên cao cấp hơn dù chỉ thuộc phân khúc tầm trung giá rẻ.</p>
+
+<a href='/?attachment_id=30'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Tab1" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/?attachment_id=31'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
+<p>&nbsp;</p>
+<p>Tuy được hoàn thiện từ nhôm nguyên khối, nhưng Galaxy Tab S7 Lite vẫn có độ mỏng nhẹ ấn tượng khi chỉ nặng 371 g và dày chỉ 8 mm, mang đến sự thoải mái khi cầm sử dụng trong thời gian dài.</p>
+<p>&nbsp;</p>
+<p>Với kích thước chỉ tương đương với một quyển sổ nên Galaxy Tab S7 Lite sẽ vô cùng gọn gàng để bạn có thể mang theo khi cần thiết.</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sản%20phẩm/dien-thoai-samsung-galaxy-z-fold2-5g-dac-biet-ss-foldult/feed/</wfw:commentRss>
+					<wfw:commentRss>/sản%20phẩm/samsung-tab-s7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Điện thoại Vsmart Live 4- VSM-LIV4</title>
-		<link>/sản%20phẩm/dien-thoai-vsmart-live-4-vsm-liv4/</link>
-					<comments>/sản%20phẩm/dien-thoai-vsmart-live-4-vsm-liv4/#respond</comments>
+		<title>Samsung tab A7</title>
+		<link>/sản%20phẩm/samsung-tab-a7/</link>
+					<comments>/sản%20phẩm/samsung-tab-a7/#respond</comments>
 		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 07:14:31 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=121</guid>
+		<dc:creator><![CDATA[lecongnam]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 15:29:18 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=29</guid>
 
-					<description><![CDATA[<h3>Nối tiếp thành công Vsmart Live, hãng giới thiệu đến người dùng mẫu Vsmart Live 4 nhằm đem lại cho người dùng thêm sự lựa chọn trong phân khúc, kế thừa các ưu điểm từ đàn anh, sản phẩm hứa hẹn sẽ mang lại thêm thành công cho điện thoại thương hiệu Việt.</h3>]]></description>
-										<content:encoded><![CDATA[<h3>Nối tiếp thành công Vsmart Live, hãng giới thiệu đến người dùng mẫu Vsmart Live 4 nhằm đem lại cho người dùng thêm sự lựa chọn trong phân khúc, kế thừa các ưu điểm từ đàn anh, sản phẩm hứa hẹn sẽ mang lại thêm thành công cho điện thoại thương hiệu Việt.</h3>
-<p><img loading="lazy" class="alignnone size-full wp-image-122" src="/wp-content/uploads/2021/06/vsmart-live-4-note-.jpg" alt="" width="800" height="600" /></p>
+					<description><![CDATA[<h5>Galaxy Tab A7 Lite là phiên bản rút gọn của dòng máy tính bảng "ăn khách" Galaxy Tab A7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h5>]]></description>
+										<content:encoded><![CDATA[<h3>Galaxy Tab A7 Lite là phiên bản rút gọn của dòng máy tính bảng &#8220;ăn khách&#8221; Galaxy Tab A7 thuộc thương hiệu Samsung, đáp ứng nhu cầu giải trí của khách hàng thuộc phân khúc bình dân với màn hình lớn nhưng vẫn gọn nhẹ hợp túi tiền.</h3>
+<h3>Thiết kế siêu mỏng nhẹ</h3>
+<p>Galaxy Tab A7 Lite sở hữu kiểu thiết kế đặc trưng của dòng Galaxy Tab A7. Thiết bị sử dụng chất liệu nhôm với thiết kế nguyên khối giúp cho máy trở nên cao cấp hơn dù chỉ thuộc phân khúc tầm trung giá rẻ.</p>
+
+<a href='/?attachment_id=30'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Tab1" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-08-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/?attachment_id=31'><img width="150" height="150" src="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-150x150.jpg 150w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-324x324.jpg 324w, /wp-content/uploads/2021/06/samsung-galaxy-tab-a7-lite-gray-gc-org-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
+<p>&nbsp;</p>
+<p>Tuy được hoàn thiện từ nhôm nguyên khối, nhưng Galaxy Tab A7 Lite vẫn có độ mỏng nhẹ ấn tượng khi chỉ nặng 371 g và dày chỉ 8 mm, mang đến sự thoải mái khi cầm sử dụng trong thời gian dài.</p>
+<p>&nbsp;</p>
+<p>Với kích thước chỉ tương đương với một quyển sổ nên Galaxy Tab A7 Lite sẽ vô cùng gọn gàng để bạn có thể mang theo khi cần thiết.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sản%20phẩm/dien-thoai-vsmart-live-4-vsm-liv4/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ngày hội Công nghệ &#8211; Flash Sale đến 50%</title>
-		<link>/sản%20phẩm/ngay-hoi-cong-nghe-flash-sale-den-50/</link>
-					<comments>/sản%20phẩm/ngay-hoi-cong-nghe-flash-sale-den-50/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 06:41:06 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=118</guid>
-
-					<description><![CDATA[là ngày hội mua sắm lớn nhất trong năm tại  Website của chúng tôi lên đến 50%]]></description>
-										<content:encoded><![CDATA[<p>Các sản phẩm sale bào gồm điện thoại và sạc dự phòng.</p>
-<p>Là ngày hội mua sắm lớn nhất trong năm tại  Website của chúng tôi lên đến 50%.</p>
-<p><strong> Nhanh tay lên nào</strong></p>
-<p><img loading="lazy" class="alignnone size-full wp-image-119" src="/wp-content/uploads/2021/06/sale.jpg" alt="sale" width="626" height="417" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sản%20phẩm/ngay-hoi-cong-nghe-flash-sale-den-50/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Điện thoại Vsmart Aris Pro &#8211; VSM-ARPR</title>
-		<link>/sản%20phẩm/dien-thoai-vsmart-aris-pro-vsm-arpr/</link>
-					<comments>/sản%20phẩm/dien-thoai-vsmart-aris-pro-vsm-arpr/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 04:33:01 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=103</guid>
-
-					<description><![CDATA[Là dòng sản phẩm cao cấp nhất của Vsmart. Thương hiệu Điện thoại Duy nhất tại Việt nam.
-- Bản thường: không chip VSM security ram/rom: 8GB /128GB
-- Bản PRO: có chip VSM security ram/rom: 8GB /256GB]]></description>
-										<content:encoded><![CDATA[<h3>Thương hiệu smartphone Việt &#8211; Vsmart chính thức trình làng Vsmart Aris Pro. Mẫu điện thoại này đánh dấu một bước ngoặc lớn trong làng smartphone với công nghệ camera ẩn trong màn hình, mức giá hợp lý giúp người Việt có cơ hội tiếp cận những công nghệ mới nhất.</h3>
-
-<a href='/?attachment_id=104'><img width="150" height="100" src="/wp-content/uploads/2021/06/vsmart-aris-pro-282420-082418.jpg" class="attachment-thumbnail size-thumbnail" alt="Album Vsmart" loading="lazy" /></a>
-<a href='/?attachment_id=105'><img width="150" height="150" src="/wp-content/uploads/2021/06/vsmart-aris-pro-green-200-org.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-<a href='/?attachment_id=106'><img width="150" height="100" src="/wp-content/uploads/2021/06/vsmart-aris-pro-xanh-1-org.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-
-]]></content:encoded>
-					
-					<wfw:commentRss>/sản%20phẩm/dien-thoai-vsmart-aris-pro-vsm-arpr/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SAMSUNG Note 20 Ultra &#8211; SSS20-UL</title>
-		<link>/sản%20phẩm/samsung-note-20-ultra-sss20-ul/</link>
-					<comments>/sản%20phẩm/samsung-note-20-ultra-sss20-ul/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 04:17:36 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=90</guid>
-
-					<description><![CDATA[Sau Galaxy S20 thì Galaxy S20 Ultra  là phiên bản tiếp theo cao cấp hơn thuộc dòng Note 20 Series của Samsung, với nhiều thay đổi, từ cụm camera hỗ trợ Lấy nét Lazer cùng ống kính góc rộng mới, màn hình tràn viền lên đến 6.9 inch.]]></description>
-										<content:encoded><![CDATA[<p><span class="comma">Màn hình: Dynamic AMOLED 2X</span><span class="">Quad HD+ (2K+)</span></p>
-<p>HĐH: Android 10</p>
-<p>CPU: Exynos 990</p>
-<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Ram: 8gb </span></span></span></span><br />
-<span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Rom: 256GB</span></span></span></span></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sản%20phẩm/samsung-note-20-ultra-sss20-ul/feed/</wfw:commentRss>
+					<wfw:commentRss>/sản%20phẩm/samsung-tab-a7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
