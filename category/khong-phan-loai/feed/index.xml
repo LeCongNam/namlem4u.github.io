@@ -10,7 +10,7 @@
 <channel>
 	<title>Chưa phân loại &#8211; Design by Lê Công Nam</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>http://https://namlem4u.github.io</link>
 	<description>lenam Store</description>
 	<lastBuildDate>Mon, 28 Jun 2021 16:24:02 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Tin tức công nghệ</title>
-		<link>/khong-phan-loai/tin-tuc-cong-nghe/</link>
-					<comments>/khong-phan-loai/tin-tuc-cong-nghe/#respond</comments>
+		<link>http://https://namlem4u.github.io/khong-phan-loai/tin-tuc-cong-nghe/</link>
+					<comments>http://https://namlem4u.github.io/khong-phan-loai/tin-tuc-cong-nghe/#respond</comments>
 		
 		<dc:creator><![CDATA[lecongnam]]></dc:creator>
 		<pubDate>Mon, 28 Jun 2021 16:24:00 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=48</guid>
+		<guid isPermaLink="false">http://https://namlem4u.github.io/?p=48</guid>
 
 					<description><![CDATA[đây là trang tin tức công nghệ nóng hổi tuần qua]]></description>
 										<content:encoded><![CDATA[
 <p>đây là trang tin tức công nghệ nóng hổi tuần qua</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/khong-phan-loai/tin-tuc-cong-nghe/feed/</wfw:commentRss>
+					<wfw:commentRss>http://https://namlem4u.github.io/khong-phan-loai/tin-tuc-cong-nghe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
