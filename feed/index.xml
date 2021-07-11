@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>lenam Store</description>
-	<lastBuildDate>Sat, 10 Jul 2021 16:48:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 10 Jul 2021 17:26:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,12 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>LỖI LOCK XUNG NHỊP WINDOWS 10 TRÊN LAPTOP</title>
-		<link>/khong-phan-loai/loi-lock-xung-nhip-windows-10-tren-laptop/</link>
-					<comments>/khong-phan-loai/loi-lock-xung-nhip-windows-10-tren-laptop/#respond</comments>
+		<link>/meo-vat/loi-lock-xung-nhip-windows-10-tren-laptop/</link>
+					<comments>/meo-vat/loi-lock-xung-nhip-windows-10-tren-laptop/#respond</comments>
 		
 		<dc:creator><![CDATA[lecongnam]]></dc:creator>
 		<pubDate>Sat, 10 Jul 2021 16:48:36 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
+				<category><![CDATA[mẹo vặt]]></category>
+		<category><![CDATA[windows 10]]></category>
 		<guid isPermaLink="false">/?p=489</guid>
 
 					<description><![CDATA[LỖI LOCK XUNG NHỊP WINDOWS 10 TRÊN LAPTOP là một lỗi vô cùng khó chịu. Một vài ngày trước, tôi nâng cấp thêm một máy tính xách tay từ Windows 7 lên Windows 10. Sau khi nâng cấp hệ điều hành, tôi tiếp tục – như tôi luôn làm – để kiểm tra hiệu suất [&#8230;]]]></description>
@@ -102,7 +103,7 @@
 <p>Bạn không đọc nhầm đâu. Vấn đề này thường xảy ra nhất đối với máy Dell.  Tất nhiên là máy khác vẫn có chứ không phải là không. nhưng máy Dell thường tích hợp kiểm tra nếu Sạc không phải là chính hãng hoặc bị hỏng không đủ nguồn. Máy sẽ báo ngay lập tức nếu bạn cài ứng dụng kiểm tra pin. Nếu không máy sẽ tự động giảm Xung mà không  thông báo gì. Cách giải quyết kà bạn hãy lau sạch đầu sạc và cắm lại vài lần. Kiểm tra Task manager và cho đến khi máy hoạt động bình thường là được. <br>nếu không được bạn hãy đặt mua một cục sạc chính hãng để giải quyết triệt để vấn đề này.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/khong-phan-loai/loi-lock-xung-nhip-windows-10-tren-laptop/feed/</wfw:commentRss>
+					<wfw:commentRss>/meo-vat/loi-lock-xung-nhip-windows-10-tren-laptop/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

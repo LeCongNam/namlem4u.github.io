@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>lenam Store</description>
-	<lastBuildDate>Sat, 10 Jul 2021 16:48:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Jun 2021 16:24:02 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,94 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>LỖI LOCK XUNG NHỊP WINDOWS 10 TRÊN LAPTOP</title>
-		<link>/khong-phan-loai/loi-lock-xung-nhip-windows-10-tren-laptop/</link>
-					<comments>/khong-phan-loai/loi-lock-xung-nhip-windows-10-tren-laptop/#respond</comments>
-		
-		<dc:creator><![CDATA[lecongnam]]></dc:creator>
-		<pubDate>Sat, 10 Jul 2021 16:48:36 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=489</guid>
-
-					<description><![CDATA[LỖI LOCK XUNG NHỊP WINDOWS 10 TRÊN LAPTOP là một lỗi vô cùng khó chịu. Một vài ngày trước, tôi nâng cấp thêm một máy tính xách tay từ Windows 7 lên Windows 10. Sau khi nâng cấp hệ điều hành, tôi tiếp tục – như tôi luôn làm – để kiểm tra hiệu suất [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p> <strong>LỖI LOCK XUNG NHỊP WINDOWS 10 TRÊN LAPTOP</strong> là một lỗi vô cùng khó chịu. <em>Một vài ngày trước, tôi nâng cấp thêm một máy tính xách tay từ Windows 7 lên Windows 10. Sau khi nâng cấp hệ điều hành, tôi tiếp tục – như tôi luôn làm – để kiểm tra hiệu suất của máy tính xách tay bằng cách sử dụng Task manager.  Nhưng, khi tôi chạy công cụ kiểm tra xung nhịp , tôi thấy rằng CPU không chạy ở tốc độ tối đa trong Windows 10, trong khi trong Windows 7 nó đã làm việc ở tốc độ tối đa.</em><br>Xem thêm: <a href="https://vi.wikipedia.org/wiki/Windows_10" data-type="URL" data-id="https://vi.wikipedia.org/wiki/Windows_10" target="_blank" rel="noopener">Windows 10 và lịch sử windows </a>.</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="760" height="367" src="/wp-content/uploads/2021/07/log_windows10.jpg" alt="lock xung nhịp windows 10 trên laptop" class="wp-image-490" srcset="/wp-content/uploads/2021/07/log_windows10.jpg 760w, /wp-content/uploads/2021/07/log_windows10-300x145.jpg 300w, /wp-content/uploads/2021/07/log_windows10-416x201.jpg 416w" sizes="(max-width: 760px) 100vw, 760px" /><figcaption>windows 10</figcaption></figure></div>
-
-
-
-<p><strong>Kiểm tra lỗi như thế nào?</strong></p>
-
-
-
-<p>Đầu tiên, nếu phát sinh lỗi cần kiểm tra từ 2 phần : phần cứng và phần mềm trên laptop . Phần mềm sẽ là thứ kiểm tra đầu tiên. vì nó dễ phát hiện và có thể sữa chữa được nếu không quá khó hoặc bạn có một chút kiên nhẫn. Nếu là người có kiến thức một xíu về công nghệ hoặc yêu thích windows thì bạn có thể tìm kiếm dễ dàng. Tuy nhiên đối với các bạn nữ thì e rằng hơi mất thời gian. Nếu được bạn nên kiếm 1 bạn  nam để đọc bài viết này và nhờ cho nhanh  ^^<br></p>
-
-
-
-<h3>LỖI LOCK XUNG NHỊP WINDOWS 10 TRÊN LAPTOP xuất phát từ đâu? </h3>
-
-
-
-<p>Đầu tiên dễ thấy nhất trên  là khi máy ở trạng thái pin dưới 20%  thì hệ điều hành sẽ tự kích hoạt chế độ Battery Save ( bảo vệ nguồn pin laptop). windows sẽ tự động kích hoạt theo setiing mặc định. Lúc này xung nhịp của laptop sẽ hạ xung để tiết kiệm năng lượng. Tuy nhiên  cũng sẽ khiến hiệu năng giảm đi đáng kể. </p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="376" height="66" src="/wp-content/uploads/2021/07/Battery-save.png" alt="LỖI LOCK XUNG NHỊP WINDOWS 10" class="wp-image-498" srcset="/wp-content/uploads/2021/07/Battery-save.png 376w, /wp-content/uploads/2021/07/Battery-save-300x53.png 300w" sizes="(max-width: 376px) 100vw, 376px" /><figcaption>Battey save</figcaption></figure></div>
-
-
-
-<p>Lúc này hiện tượng giật lag sẽ xảy ra. Lúc này nếu thấy dưới biểu tượng Pin có hình chiếc là màu xanh. Tức là bạn đang kích hoạt chế độ này. Nếu laptop đang còn nhiều pin bạn nên tắt chế độ này và chuyển sang chế độ cân bằng(Balanced).  và kiểm tra trong Task Manger xem có còn bị lock xung không nhé. <br>Xem thêm: nếu giải quyết xong bạn có thể đọc bài khác của tôi <a href="/tim-hieu-ve-dien-thoai/so-sanh-chip-snap-710-va-snap-660-su-cai-thien-dang-ke-ve-moi-mat/" target="_blank" data-type="URL" data-id="/tim-hieu-ve-dien-thoai/so-sanh-chip-snap-710-va-snap-660-su-cai-thien-dang-ke-ve-moi-mat/" rel="noreferrer noopener">tại đây</a></p>
-
-
-
-<p>Tiếp theo nếu bạn không ở chế độ này. Thì bạn cần kiểm tra xem trong chế độ hoạt động của máy có đang set chế độ hoạt động custome cho nguồn điện hay không. Nếu có bạn cần Restore default nó về mặc định. thường thì không có lý do để bạn tuỳ chỉnh những mục này.  Có thể ai đó bạn bè hoặc cháu nhỏ đã nghich ngợm mà tuỳ chỉnh.<br><strong>Đầu tiên</strong> bạn search vào ô Search &#8220;Power Options&#8221; và chọn icon màu xanh lá , Khi này bạn sẽ vào được Control Pannel như hình dưới.<br></p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="850" height="546" src="/wp-content/uploads/2021/07/control_pannel.png" alt="Power Options" class="wp-image-500" srcset="/wp-content/uploads/2021/07/control_pannel.png 850w, /wp-content/uploads/2021/07/control_pannel-300x193.png 300w, /wp-content/uploads/2021/07/control_pannel-768x493.png 768w, /wp-content/uploads/2021/07/control_pannel-416x267.png 416w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption>Lock xung windows 10 trên laptop</figcaption></figure></div>
-
-
-
-<p><strong>2.</strong> Nhấp <strong>Change Plan settings.</strong>  sẽ hiện ra bảng dưới đây.<br></p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/07/image-1.png" alt="" class="wp-image-501" width="590" height="376" srcset="/wp-content/uploads/2021/07/image-1.png 850w, /wp-content/uploads/2021/07/image-1-300x191.png 300w, /wp-content/uploads/2021/07/image-1-768x490.png 768w, /wp-content/uploads/2021/07/image-1-416x265.png 416w" sizes="(max-width: 590px) 100vw, 590px" /></figure></div>
-
-
-
-<p><strong>2.</strong> Nhấp <strong>Change Advanced power settings.</strong>  sẽ hiện ra bảng chọn như dưới đây. bạn cần tập trung làm đúng. Không chọn sai hoặc nghịch lung tung nếu không biết chắc chắn mình đang làm gì. việc chọn sai khiến máy hoạt động không đúng  với chế độ và gây ra nhiều bất tiện.<br></p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="404" height="442" src="/wp-content/uploads/2021/07/Advanced-setting.png" alt="lỗi lock xung nhịp trên windows 10" class="wp-image-503" srcset="/wp-content/uploads/2021/07/Advanced-setting.png 404w, /wp-content/uploads/2021/07/Advanced-setting-274x300.png 274w" sizes="(max-width: 404px) 100vw, 404px" /><figcaption>lỗi lock xung nhịp trên windows 10</figcaption></figure></div>
-
-
-
-<p>Lúc này bạn chọn Restore plan default. sau đó chọn <strong>Processor power managemen</strong>t/ chọn <strong>maximum processor state</strong> và chọn như hình trên. lúc này hãy kiểm tra lại task manager xem xung nhịp đã chạy tối đa chưa. nếu rồi bạn hãy dừng lại và không nghịch ngợm gì nữa.  Việc chọn mà không hiều sẽ khiến chế độ hoạt động sai. Pin sẽ kiệt nhanh chóng.<br> Tuy nhiên nếu bạn cảm thấy máy quá nóng hãy  chọn tiếp vào mục sau. lúc này hệ điều hành sẽ làm mát máy và không để máy hoạt động tối đa luôn luôn nữa.<br></p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="404" height="442" src="/wp-content/uploads/2021/07/image-3.png" alt="" class="wp-image-504" srcset="/wp-content/uploads/2021/07/image-3.png 404w, /wp-content/uploads/2021/07/image-3-274x300.png 274w" sizes="(max-width: 404px) 100vw, 404px" /></figure></div>
-
-
-
-<h3>Lỗi Lock xung windows 10 trên laptop là do cục sạc?? </h3>
-
-
-
-<p>Bạn không đọc nhầm đâu. Vấn đề này thường xảy ra nhất đối với máy Dell.  Tất nhiên là máy khác vẫn có chứ không phải là không. nhưng máy Dell thường tích hợp kiểm tra nếu Sạc không phải là chính hãng hoặc bị hỏng không đủ nguồn. Máy sẽ báo ngay lập tức nếu bạn cài ứng dụng kiểm tra pin. Nếu không máy sẽ tự động giảm Xung mà không  thông báo gì. Cách giải quyết kà bạn hãy lau sạch đầu sạc và cắm lại vài lần. Kiểm tra Task manager và cho đến khi máy hoạt động bình thường là được. <br>nếu không được bạn hãy đặt mua một cục sạc chính hãng để giải quyết triệt để vấn đề này.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/khong-phan-loai/loi-lock-xung-nhip-windows-10-tren-laptop/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Tin tức công nghệ</title>
 		<link>/khong-phan-loai/tin-tuc-cong-nghe/</link>
 					<comments>/khong-phan-loai/tin-tuc-cong-nghe/#respond</comments>
